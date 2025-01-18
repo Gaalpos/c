@@ -4,6 +4,7 @@ usuario introducir por teclado la temperatura en grados centígrados y que le dev
 pantalla la temperatura en grados Fahrenheit correspondiente. (utilizar fórmula C = F – 32/1.8)
 */
 
+#include <stdio.h>
 get_num(){
     int  num;
     printf("Pulse 1 para convertir Celsisus a Farenheit \n");
