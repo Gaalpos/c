@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1737365620 source:c:\ifct0609-compartir\afd 2024_001603\ejercicios c\gui_v0\main.cpp
+	<tchar.h>
+	<windows.h>
+

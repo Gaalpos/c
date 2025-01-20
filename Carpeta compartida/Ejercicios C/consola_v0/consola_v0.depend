@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1737363552 source:c:\ifct0609-compartir\afd 2024_001603\ejercicios c\consola_v0\main.c
+	"vista.h"
+
+1737363447 c:\ifct0609-compartir\afd 2024_001603\ejercicios c\consola_v0\vista.h
+
+1737363506 source:c:\ifct0609-compartir\afd 2024_001603\ejercicios c\consola_v0\vista.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"vista.h"
+
